@@ -11,4 +11,4 @@
 <p <p align="center">>4. After You Click On the Exe Windows Will Do its Protection Thing. Click On More Info a button should show up that says "Open Anyway". </p>
 <p <p align="center">>5. When You Are At The Menu It Wouldnt Work. thats because you might not have "requests" installed. that is simple first go to cmd and type "pip install requests" or to force it do "python -m pip install requests. </p>
 
-<h1> You Are Done With Tutorial. Enjoy </h1>
+<h1 align="center"> You Are Done With Tutorial. Enjoy </h1>
