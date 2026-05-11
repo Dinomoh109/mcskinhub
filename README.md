@@ -4,7 +4,7 @@
 
 <h2 align="center">Turorial</h3>
 <h3 align="center">How To Use Beta</h4>
-<h4 align="center> Warning: This Would Work If You Have Python Installed. if not use Easy </h4>
+<h4 align="center"> Warning: This Would Work If You Have Python Installed. if not use Easy </h4>
 <p <p align="center">>1. Click On Beta Version </p>
 <p <p align="center">>2. When You click on it it will say suspisios file. Ignore That. and continue with download. </p>
 <p <p align="center">>3. When Installed It Will Be Zip File. right click on it and Find The Optiont That Says "Extract All".  </p>
