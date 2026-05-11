@@ -4,15 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MC Skin Architect | Hub</title>
-    
-    <!-- ADD THIS LINE FOR THE FAVICON -->
     <link rel="icon" type="image/x-icon" href="favicon.ico?v=1">
-    
     <link rel="stylesheet" href="style.css">
+    <style>
+        /* Add this to your style.css or keep it here to ensure the layout works */
+        .button-group {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+    </style>
 </head>
 <body>
     <div class="bg-glow"></div>
-    
     <div class="container">
         <header>
             <h1 class="glitch-text">MC SKIN HUB</h1>
@@ -24,10 +30,15 @@
                 <h2>Executable Portal</h2>
                 <p>Click below to download the official McskinHub application.</p>
                 
-                <a href="MCSKINSTEALER.zip" download="MCSKINSTEALER.zip" class="cyber-button">
-                    MCSKINSTEALER
-                            (Beta)
-                </a>
+                <!-- Grouped Buttons -->
+                <div class="button-group">
+                    <a href="MCSKINSTEALER.zip" download="MCSKINSTEALER.zip" class="cyber-button">
+                        MCSKINSTEALER (Beta)
+                    </a>
+                    <a href="McskinHub.zip" download="McskinHub.zip" class="cyber-button">
+                        MCSKIN LITE (Stable)
+                    </a>
+                </div>
             </div>
 
             <div class="divider"></div>
@@ -35,7 +46,7 @@
             <div class="features-grid">
                 <div class="feature">
                     <h3>Important</h3>
-                    <p>In your Command Prompt do {pip install requests}.</p>
+                    <p>In your Command Prompt do <code>pip install requests</code>.</p>
                 </div>
                 <div class="feature">
                     <h3>Important</h3>
